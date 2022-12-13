@@ -4,7 +4,7 @@
     grid-template: repeat(2, minmax(70px, auto)) / repeat(3, 350px);
     column-gap: 45px;
     row-gap: 35px;
-    padding-left: 20%;
+    justify-content: center;
     &-item {
         display: grid;
         grid-template: minmax(21px, auto) 14px / 200px 35px;
